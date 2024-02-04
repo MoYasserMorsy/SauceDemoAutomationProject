@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Testing code/selenium/automationProject">
+        <classes>
+            <class name="Tests.LoginTests"></class>
+            <class name="Tests.CartTests"></class>
+            <class name="Tests.ProductsTests"></class>
+            <class name="Tests.SideMenuTests"></class>
+        </classes>
+    </test>
+</suite>
